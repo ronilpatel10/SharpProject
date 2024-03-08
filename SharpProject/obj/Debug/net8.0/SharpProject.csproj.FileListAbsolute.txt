@@ -1,0 +1,15 @@
+/Users/ronil/Development/code/SharpProject/SharpProject/obj/Debug/net8.0/SharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronil/Development/code/SharpProject/SharpProject/obj/Debug/net8.0/SharpProject.AssemblyInfoInputs.cache
+/Users/ronil/Development/code/SharpProject/SharpProject/obj/Debug/net8.0/SharpProject.AssemblyInfo.cs
+/Users/ronil/Development/code/SharpProject/SharpProject/obj/Debug/net8.0/SharpProject.csproj.CoreCompileInputs.cache
+/Users/ronil/Development/code/SharpProject/SharpProject/obj/Debug/net8.0/SharpProject.sourcelink.json
+/Users/ronil/Development/code/SharpProject/SharpProject/bin/Debug/net8.0/SharpProject
+/Users/ronil/Development/code/SharpProject/SharpProject/bin/Debug/net8.0/SharpProject.deps.json
+/Users/ronil/Development/code/SharpProject/SharpProject/bin/Debug/net8.0/SharpProject.runtimeconfig.json
+/Users/ronil/Development/code/SharpProject/SharpProject/bin/Debug/net8.0/SharpProject.dll
+/Users/ronil/Development/code/SharpProject/SharpProject/bin/Debug/net8.0/SharpProject.pdb
+/Users/ronil/Development/code/SharpProject/SharpProject/obj/Debug/net8.0/SharpProject.dll
+/Users/ronil/Development/code/SharpProject/SharpProject/obj/Debug/net8.0/refint/SharpProject.dll
+/Users/ronil/Development/code/SharpProject/SharpProject/obj/Debug/net8.0/SharpProject.pdb
+/Users/ronil/Development/code/SharpProject/SharpProject/obj/Debug/net8.0/SharpProject.genruntimeconfig.cache
+/Users/ronil/Development/code/SharpProject/SharpProject/obj/Debug/net8.0/ref/SharpProject.dll
